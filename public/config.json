@@ -5,8 +5,8 @@
   "site_tokens": [
     {
       "name": "test",
-      "backend_url": "wss://node-api.ltlt4.fun:5000",
-      "token": "AnVJKTR0Z04QKbZB:v5uD9IXASug2udXnmekDdzVpy8gNzjYu"
+      "backend_url": "wss://p01--nodeget--ys45qmpwx5d7.code.run",
+      "token": "k6Ob8rUD3frMFQkc:BiJSiYvLrZNc2BAgJku5rNo4wATPLpkE"
     }
   ]
 }
